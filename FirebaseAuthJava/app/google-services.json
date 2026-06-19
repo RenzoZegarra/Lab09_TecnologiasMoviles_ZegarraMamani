@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178648951870",
+    "project_id": "fir-authjava-a1be5",
+    "storage_bucket": "fir-authjava-a1be5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178648951870:android:4589eb5f7f0d0a0493f56f",
+        "android_client_info": {
+          "package_name": "com.renzo.firebaseauthjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8kfMn7yMDUJ0B9KuT3GbDFQKtFtQCajo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
