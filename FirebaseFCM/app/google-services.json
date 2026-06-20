@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532612407092",
+    "project_id": "fir-fcm-a1c4c",
+    "storage_bucket": "fir-fcm-a1c4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532612407092:android:445fa1b422cf55de1c4f61",
+        "android_client_info": {
+          "package_name": "com.renzo.firebasefcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1Rsb_YdijFJ6_N5SW_Io5Eln8dn6GlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
