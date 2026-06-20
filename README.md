@@ -5,5 +5,3 @@
 <img width="1583" height="633" alt="image" src="https://github.com/user-attachments/assets/4207aa5e-1697-4877-9bca-120769a2af9e" />
 
 
-
-# Ejercicio 2
